@@ -23,6 +23,7 @@ I build scalable applications and design systems that combine
 - Docker, Kubernetes
 - CI/CD (GitHub Actions)
 - AWS
+- Supabase
 
 **AI Systems**
 - LLM integrations
