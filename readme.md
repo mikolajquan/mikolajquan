@@ -47,7 +47,7 @@ I build scalable applications and design systems that combine
 ## 🔗 Links
 
 - Portfolio → https://mikolaiquan.netlify.app  
-- GitHub → https://github.com/mikolajquan  
+- GitHub → https://github.com/PfanP  
 - Email → mikolaj.quan@outlook.com  
 
 ---
